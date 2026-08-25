@@ -1,7 +1,6 @@
 # Olá! Eu sou Guilherme Lucca 👋
 
 
-
 ### 👨‍💻 Quem sou eu
 
 Sou um Estudante de Direito e análise e desenvolvimento de sistemas, apaixonado por criar soluções inovadoras e resolver problemas complexos. Atualmente, estou focado em aprimorar minhas habilidades nas áreas de estudo atual e sempre em busca de novos desafios!
